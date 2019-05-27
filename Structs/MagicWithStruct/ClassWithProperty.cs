@@ -13,6 +13,8 @@
             Y = y;
         }
 
+        // Тут был КотЭ )
+
 
         public void Increment()
         {
