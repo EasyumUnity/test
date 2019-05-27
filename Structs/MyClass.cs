@@ -1,5 +1,8 @@
 ﻿namespace Structs
 {
+    /// <summary>
+    /// УРЛЭ УРЛЭ!!!!!!
+    /// </summary>
     public class MyClass
     {
         public int Id { get; set; }
